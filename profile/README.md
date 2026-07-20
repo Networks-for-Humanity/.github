@@ -1,4 +1,5 @@
-# Networks for Humanity Foundation
+# Networks for Humanity (NFH)
+[nfh.global](https://nfh.global)
 
 ## Building universal digital infrastructure at population scale.
 Networks for Humanity (NFH) is a global network of non-profit labs founded by technologists with unparalleled experience in building universal digital infrastructure at population scale. We bring together policymakers, technologists, institutions, and communities to design and govern open systems that serve everyone.
